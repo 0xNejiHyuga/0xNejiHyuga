@@ -14,11 +14,11 @@
 
 ### 👁️ About Me
 
-I am on a path of self-mastery. This profile is a log of my progress.
+Я на пути к саморазвитию. Этот профиль служит в качестве "лога" моего прогресса.
 
-- 🔭 **Currently working on:** Forging discipline and strength.
-- 🌱 **Currently learning:** The art of control and focus.
-- ⚡ **My philosophy:** `Calm under pressure. Disciplined in action.`
+- 🔭 **Работаю над:** разработкой дисциплины и силы.
+- 🌱 **Сейчас учусь:** самоконтролю и фокусировке
+- ⚡ **Моя философия:** `Спокойный под давлением, но дисциплинированный в действиях`
 
 ---
 
