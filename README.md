@@ -22,7 +22,7 @@
 
 ---
 
-### 🛠️ My Arsenal
+### 🛠️ Мои навыки
 
 <!-- Бейджи технологий. Замени на свои. Примеры: -->
 <p align="left">
@@ -35,7 +35,7 @@
 
 ---
 
-### 📊 My Progress
+### 📊 Мой прогресс
 
 <!-- Статистика GitHub -->
 <div align="center">
@@ -49,7 +49,7 @@
 
 ---
 
-### 🏆 Achievements
+### 🏆 Достижения
 
 <!-- Трофеи. Замени имя пользователя -->
 <div align="center">
@@ -58,8 +58,7 @@
 
 ---
 
-### 🤝 Connect
-
+### 🤝 Мои контакты
 <!-- Ссылки на контакты. Замени на свои -->
 <p align="left">
   <!-- <a href="https://linkedin.com/in/ТВОЙ_ПРОФИЛЬ"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> -->
@@ -68,5 +67,5 @@
 
 <!-- Невидимый блок для центрирования -->
 <div align="center">
-  <sub>Be silent. Be strong. Be unstoppable.</sub>
+  <sub>Быть тихим. Быть сильным. Быть неостановимым. </sub>
 </div>
